@@ -1,1 +1,2 @@
-# c24-hw
+# Geologist
+Geologist Project
